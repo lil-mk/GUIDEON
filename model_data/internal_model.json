@@ -1,0 +1,45 @@
+{
+    "sensors": {
+        "camera": {
+            "type": "visual",
+            "field_of_view": 60,
+            "resolution": [
+                640,
+                480
+            ],
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "reliability": 1.0,
+            "active": true
+        },
+        "microphone": {
+            "type": "audio",
+            "sensitivity": 0.8,
+            "noise_floor": 0.1,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "reliability": 0.0,
+            "active": true
+        }
+    },
+    "environment": {
+        "detected_objects": [],
+        "audio_events": [],
+        "last_interaction": "",
+        "ambient_conditions": {
+            "light_level": 0.7244311044730393,
+            "noise_level": 0.2
+        }
+    },
+    "system_state": {
+        "attention_focus": null,
+        "confidence": 1.0,
+        "last_update": 1741395970.010092
+    }
+}
