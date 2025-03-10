@@ -33,13 +33,13 @@
         "audio_events": [],
         "last_interaction": "",
         "ambient_conditions": {
-            "light_level": 0.7244311044730393,
+            "light_level": 0.7401040134803921,
             "noise_level": 0.2
         }
     },
     "system_state": {
         "attention_focus": null,
         "confidence": 1.0,
-        "last_update": 1741395970.010092
+        "last_update": 1741474116.6411023
     }
 }
